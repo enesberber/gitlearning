@@ -1,4 +1,5 @@
 package tests;
 
-public class wintercls {
+public class winter {
+    //ABDULHAMITCILER SIZI
 }
